@@ -8,7 +8,7 @@ The dataset of the paper [VARFVV: View-Adaptive Real-Time Interactive Free-View 
 
 ## Download our dataset
 
-The dataset is available on [GoogleDrive](https://drive.google.com/drive/folders/1BQ2b8qJ5vwB0MCMyGNGZnm6wNKxo7YRV?usp=sharing) and requires permission to access it. Please carefully read, fill in the license form, and send it to Qiang Hu(qiang.hu@sjtu.edu.cn) to request access.
+The dataset is available on [GoogleDrive](https://drive.google.com/drive/folders/1BQ2b8qJ5vwB0MCMyGNGZnm6wNKxo7YRV?usp=sharing) and requires permission to access it. Please carefully read, fill in the [license form](license.pdf), and send it to Qiang Hu(qiang.hu@sjtu.edu.cn) to request access.
 
 By requesting access to the content, you acknowledge that you have read this agreement, understand it, and agree to be bound by its terms and conditions. This agreement constitutes a legal and binding agreement between you and the provider of the protected system or content.
 
@@ -20,21 +20,20 @@ Notes:
 
 ## Description
 
-We have uploaded 12 datasets, including playing baksetball, boxing, singing, and more. The datasets are as follows:
+We have uploaded 12 scenes in our dataset, including playing baksetball, boxing, singing, and more. The scenes as follows:
 
-- 20191231_kuanian
-- A_Basketball_Player
-- A_Broadcast_Gymnast
-- A_Dancer
-- badminton
-- basketball
-- basketball_2
-- box_2
-- dance2_2
-- dance3_2
+- Kuanian_New_Year
+- Basketball_Player
+- Gymnastics_Performance
+- Dance_Performance
+- Badminton_Match
+- Basketball_Game
+- Street_Basketball
+- Boxing_Match
+- Cultural_Dance
+- Modern_Dance
 - Skipping_Rope
-- wushu
-
+- Wushu_Demonstration
 
 
 ## Citation
